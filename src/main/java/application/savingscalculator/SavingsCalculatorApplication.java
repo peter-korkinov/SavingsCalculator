@@ -12,8 +12,10 @@ public class SavingsCalculatorApplication extends Application {
 
     @Override
     public void start(Stage stage) {
+        // Create the main view of the application
         BorderPane layout = CalculatorView.getView();
 
+        // Create the scene and set it on the stage
         Scene scene = new Scene(layout, VIEW_WIDTH, VIEW_HEIGHT);
 
         stage.setScene(scene);
