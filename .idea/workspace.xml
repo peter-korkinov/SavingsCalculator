@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SavingsCalculator:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d29c3e20-81a8-481f-8e6b-b22a212efbd8" name="Changes" comment="Adding comments">
+    <list default="true" id="d29c3e20-81a8-481f-8e6b-b22a212efbd8" name="Changes" comment="Adding jar file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +44,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.29770115"
+    "project.structure.side.proportion": "0.26666668"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="SavingsCalculatorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="application.savingscalculator.SavingsCalculatorApplication" />
       <module name="SavingsCalculator" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Peter\.m2\repository\org\openjfx&quot; --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="application.savingscalculator.*" />
@@ -92,13 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701991400663</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding jar file">
+      <created>1701991518648</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701991518648</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating basic functionality" />
     <MESSAGE value="refactoring" />
     <MESSAGE value="Adding comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding comments" />
+    <MESSAGE value="Adding jar file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding jar file" />
   </component>
 </project>
