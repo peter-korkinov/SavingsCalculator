@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d29c3e20-81a8-481f-8e6b-b22a212efbd8" name="Changes" comment="Adding jar file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d29c3e20-81a8-481f-8e6b-b22a212efbd8" name="Changes" comment="Adding jar file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,7 @@
     <configuration name="SavingsCalculatorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="application.savingscalculator.SavingsCalculatorApplication" />
       <module name="SavingsCalculator" />
-      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Peter\.m2\repository\org\openjfx&quot; --add-modules javafx.controls,javafx.fxml" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Peter\.m2\repository\org\openjfx&quot; --add-modules=ALL-MODULE-PATH" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="application.savingscalculator.*" />
@@ -105,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701991518648</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding jar file">
+      <created>1701995469476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701995469476</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
